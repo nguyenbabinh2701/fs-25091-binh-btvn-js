@@ -1,0 +1,2 @@
+- [ ] Fix script src in task18/ex02.html to point to ex02.js
+- [ ] Implement accordion logic in task18/ex02.js to toggle answers on question click, ensuring only one answer is shown at a time
